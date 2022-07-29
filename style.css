@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#block3.active {
+    background: dodgerblue;
+}
+#block1.active {
+    background: darkcyan;
+}
